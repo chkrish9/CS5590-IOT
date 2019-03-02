@@ -1,0 +1,16 @@
+{
+  "name": "celsiustofahrenheit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red": {
+    "nodes": {
+      "c-to-f":"c-to-f.js"
+    }
+  },
+  "author": "",
+  "license": "ISC"
+}
